@@ -1,0 +1,22 @@
+#case-converter {
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    margin-bottom: 5px;
+}
+
+#textarea {
+    height: 150px;
+    margin-bottom: 10px;
+}
+
+.btn {
+    margin-right: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+    border: none;
+    border-radius: 2px;
+    background-color: #ef9c78;
+}
